@@ -23,7 +23,7 @@ This repository is a fully functional Android To-Do application that allows user
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/KocUniversity/project-2-todo-section-01-android-todo.git
+   git clone https://github.com/r4yfon/todo-droid.git
    ```
 2. **Open in Android Studio:**
 
